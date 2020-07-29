@@ -11,10 +11,14 @@
     };
 ]]
 
-local registry = {} do
-    for _, mod in pairs(game:GetDescendants()) do
-        if mod:IsA("ModuleScript")
-    end;    
-end
+return {
+    {
+        container = game:GetService("ReplicatedStorage"),
+        map = {
+            "monsterLookup",
 
-return registry
+            "dialogue/genericShopkeeper",
+            "dialogue/testNPCDialog",
+        };
+    }
+}
