@@ -18,5 +18,8 @@ Easier Module Requiring / Handling
 ```lua
   local import = require(game.ReplicatedStorage:WaitForChild("Import"))
 
-  local ExampleModulescript = import "modulescript"
+  local ExampleModulescript1 = import "modulescript1"
+  
+  
+  local ExampleModulescript2 = import "folder/modulescript"
 ```
