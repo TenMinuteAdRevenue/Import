@@ -1,6 +1,9 @@
 # Import
 Module Requiring / Handling
 
+# NOTICE
+There are more in-depth documentation notes within the code itself!
+
 # Reason
 There are two problems that I have come across when reorganizing/restructuring a codebase, these issues were:
   - Fixing every single script that requires a module to be in a specific location.
