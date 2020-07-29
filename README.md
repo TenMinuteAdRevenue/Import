@@ -21,5 +21,5 @@ Easier Module Requiring / Handling
   local ExampleModulescript1 = import "modulescript1"
   
   
-  local ExampleModulescript2 = import "folder/modulescript"
+  local ExampleModulescript2 = import "folder/modulescript2"
 ```
