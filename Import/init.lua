@@ -12,7 +12,7 @@
     local SomeModule = import "Module"
 
     -- [ NESTED EXAMPLE ] --
-    local SomeModule = import "Module"
+    local SomeModule = import "Folder/Module"
 
     --[ INSTANCE EXAMPLE ] --
     local SomeModule = import(ModuleScript) 
