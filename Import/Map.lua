@@ -16,7 +16,7 @@ return {
         container = game:GetService("ReplicatedStorage"),
         map = {
             "modulescript",
-            "file/modulescript"
+            "folder/modulescript"
         };
     }
 }
