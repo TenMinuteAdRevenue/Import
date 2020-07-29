@@ -15,10 +15,8 @@ return {
     {
         container = game:GetService("ReplicatedStorage"),
         map = {
-            "monsterLookup",
-
-            "dialogue/genericShopkeeper",
-            "dialogue/testNPCDialog",
+            "modulescript",
+            "file/modulescript"
         };
     }
 }
